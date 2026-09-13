@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#f6f8fa" rx="10"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="14" xml:space="preserve">
+    <text x="20" y="30"><tspan fill="#6e7681">---+--------+-=-+--==-==+-=-+--=+---+--=---=-----==--=--=-=    </tspan><tspan fill="#24292f" font-weight="bold">Tushar Sharma</tspan></text>
+    <text x="20" y="48"><tspan fill="#6e7681">=--+------==+-=-+---=-=-=-==+-==+---=--=------------===-==-    -------------</tspan></text>
+    <text x="20" y="66"><tspan fill="#6e7681">---+-----=-=+---+=-==-=-+=#%%%%%%%=-=--=------=--=-======--    . </tspan><tspan fill="#953800">Role:</tspan><tspan fill="#afb8c1"> ................................... </tspan><tspan fill="#0550ae">AI &amp; ML Developer</tspan></text>
+    <text x="20" y="84"><tspan fill="#6e7681">--=+---=----=-==+-=====+%#*+++#%%@@@+--=---------=---=-==-=    . </tspan><tspan fill="#953800">Education:</tspan><tspan fill="#afb8c1"> ........................... </tspan><tspan fill="#0550ae">B.Tech CSE @ SRM Institute of Science &amp; Technology</tspan></text>
+    <text x="20" y="102"><tspan fill="#6e7681">---+-------=+-==+-====#+===--==+++*#%#==------=--=---=--=--    . </tspan><tspan fill="#953800">Graduation:</tspan><tspan fill="#afb8c1"> ................................. </tspan><tspan fill="#0550ae">Class of 2027</tspan></text>
+    <text x="20" y="120"><tspan fill="#6e7681">--=+--=--=--+-=-+-===#*+==--====++***%%=------=--=-=-=--=--    . </tspan></text>
+    <text x="20" y="138"><tspan fill="#6e7681">---+-===---=+-==+===+*+==---==++++***#%+------=--=---=--=--    . </tspan><tspan fill="#953800">Languages.Programming:</tspan><tspan fill="#afb8c1"> ........................ </tspan><tspan fill="#0550ae">Python, SQL</tspan></text>
+    <text x="20" y="156"><tspan fill="#6e7681">---+--=--==-+-==+===+*=+##%#+=++#%##*#%+-=---==--=---=-==--    . </tspan><tspan fill="#953800">Libraries.DeepLearning:</tspan><tspan fill="#afb8c1"> ...... </tspan><tspan fill="#0550ae">Pytorch,TensorFlow, Keras, MediaPipe</tspan></text>
+    <text x="20" y="174"><tspan fill="#6e7681">---+-=----=-+-==+===+*++*+#*+-*#**###*%+----=-=--=---=-==--    . </tspan><tspan fill="#953800">Libraries.Data:</tspan><tspan fill="#afb8c1"> ................. </tspan><tspan fill="#0550ae">OpenCV, NumPy, Pandas, Matplotlib, Seaborn</tspan></text>
+    <text x="20" y="192"><tspan fill="#6e7681">---+---=-===+--=+====*==++*+=-+#*%%%**%+---==-==-=-=-=-==--    . </tspan><tspan fill="#953800">Libraries.LLM:</tspan><tspan fill="#afb8c1"> ........................ </tspan><tspan fill="#0550ae">LangChain, ChromaDB</tspan></text>
+    <text x="20" y="210"><tspan fill="#6e7681">---+-=---==-=-==+===-*----==--=*++++**#*--========--====---    . </tspan></text>
+    <text x="20" y="228"><tspan fill="#6e7681">---+--=--==-====+====*=-=+==**###+=+*##*-======--=-====----    . </tspan><tspan fill="#953800">Projects.Active:</tspan><tspan fill="#afb8c1"> .......... </tspan><tspan fill="#0550ae">PlexMeet, Crop Disease, Plexbot</tspan></text>
+    <text x="20" y="246"><tspan fill="#6e7681">---+---=--===-==+====+==+%%#++#%@%***##+-=========-=====--=    . </tspan><tspan fill="#953800">Hobbies.Activities:</tspan><tspan fill="#afb8c1"> ....... </tspan><tspan fill="#0550ae">Powerlifting, Promptathons</tspan></text>
+    <text x="20" y="264"><tspan fill="#6e7681">-=-+-===-=======+=====*++#=+-=+*###*#+==-=====+===-=====-==    . </tspan></text>
+    <text x="20" y="282"><tspan fill="#6e7681">==-+-===-=======+=====**====+****###*=========+===-========    </tspan><tspan fill="#24292f" font-weight="bold">- Contact ---------------------------------------------------</tspan></text>
+    <text x="20" y="300"><tspan fill="#6e7681">--=+-===-=======+=====++#*+++*+##%%#==========+=========-==    . </tspan><tspan fill="#953800">Email:</tspan><tspan fill="#afb8c1"> ............................ </tspan><tspan fill="#0550ae">tushar.sh6289@gmail.com</tspan></text>
+    <text x="20" y="318"><tspan fill="#6e7681">-==+-===========+===+#.++*#%%%%@%%##===+======+============    . </tspan><tspan fill="#953800">LinkedIn:</tspan><tspan fill="#afb8c1"> ................................. </tspan><tspan fill="#0550ae">in/tusharwithai</tspan></text>
+    <text x="20" y="336"><tspan fill="#6e7681">===+-===-=======+=+%%#..-+++**#####==%=+======+============    . </tspan><tspan fill="#953800">GitHub:</tspan><tspan fill="#afb8c1"> ...................................... </tspan><tspan fill="#0550ae">tusharwithai</tspan></text>
+    <text x="20" y="354"><tspan fill="#6e7681">===+-===-=====*%%%%%%%:...-+++***=:-=@@@%*+===+============</tspan></text>
+    <text x="20" y="372"><tspan fill="#6e7681">===+-===+*#%%%%%%%%%%%=.....:++-.::-#@@@@@%%%#*============</tspan></text>
+    <text x="20" y="390"><tspan fill="#6e7681">===*%%%%%%%%%%%%%@%%%%#....##%@@%::-%@@@@@@%%%%%%%#+=======</tspan></text>
+    <text x="20" y="408"><tspan fill="#6e7681">===#%%%%%%%%%%%%%%%%%%%-.:+-*%@@+=:-%@@@%%%%%%%%%%%%%%=====</tspan></text>
+    <text x="20" y="426"><tspan fill="#6e7681">===%%%%%%%%%%%%%%%%%%%%+:..:.#%%-:::%@@@%%%%%%%%%%%%%@+====</tspan></text>
+    <text x="20" y="444"><tspan fill="#6e7681">==#%%%%%%%%%%%%%%%%%%%%*:...*#%@=:::%@@%%%@%%%%%%%%@%@#====</tspan></text>
+    <text x="20" y="462"><tspan fill="#6e7681">==%%%%%%%%%%%%%%%%%%%%%%:..:##%%*:.-%@@%%%@%%%%@%%@@@@%====</tspan></text>
+    <text x="20" y="480"><tspan fill="#6e7681">=#%%%%%%%%%%%%%%%%%%%%%%+..:#%%%%::-%@@%%%%%%%@@@%@%@@@*===</tspan></text>
+    <text x="20" y="498"><tspan fill="#6e7681">+%%%%%%@%%%%%%%%%%%%%%%%*..-%%%%%::+%@%%%@%%%@@@@@@@@@@%===</tspan></text>
+    <text x="20" y="516"><tspan fill="#6e7681">*%%%%%%@@%%%%%%%%%%%%%%%%::.%%%%%::%@%%%%%@@@@@@@@@@@@@@==+</tspan></text>
+    <text x="20" y="534"><tspan fill="#6e7681">%%%%%%%@@%%%%%%%%%%%%%%%%*:.%%%%%::%@%%%@%@@@@@@@@@@@@@@*=+</tspan></text>
+    <text x="20" y="552"><tspan fill="#6e7681">%%%%%%@@@@%%%%%%%%%%%%%%%%:.%%%%%-=%@%%@@@@@@@@@@@@@@@@@@=+</tspan></text>
+    <text x="20" y="570"><tspan fill="#6e7681">%%%%%%@@@@%%%%%%%%%%%%%%%%=:%%%%%-#@@%%@@@@@@@@@@@@@@@%@@++</tspan></text>
+    <text x="20" y="588"><tspan fill="#6e7681">%%%%%%@@@@%%%%%%%%%%%%%%%%%-%%%%%+%@@%@@@@@@@@@@@@@@%@@@@*+</tspan></text>
+    <text x="20" y="606"><tspan fill="#6e7681">%%%%%%@@@@%%%%%%%%%%%%%%%%@+%%%%%%%@%@@@@@@@@@@@@@@@@@@@@#+</tspan></text>
+    <text x="20" y="624"><tspan fill="#6e7681">%%%%%%@@@@@%%%%%%%%%%%%@%%%%%%%%@%@@@@@@@@@@@@@@@@@@@%@@@@+</tspan></text>
+    <text x="20" y="642"><tspan fill="#6e7681">%%%%%@%%@@@%%%%%%%%%%%%@@%%@@%%%%%%@@@@@@@@@@@@@@@@@@@@@%@+</tspan></text>
+  </g>
+</svg>
