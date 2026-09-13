@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**tusharwithai/tusharwithai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[=---+----=--=-=+-==-=-====-=-=+-=--+----+----=---=---=----=--==-==---=--=
+]             tushar@sharma
+[=---+----=---==+--==+-====-=-=+-=--*-===+----=---=---=-=--=-==---=---=---
+]             -------------
+[=-=-+---==---==+----+--===----+--=+#%%%%*=---=---=-------=---=---=---=---
+]             Role:       AI & Machine Learning Developer
+[----+----==---=+--=-+--=-==-=-+*%%%%%%%%%%#+-=---=-----=-==--=---=-=-=---
+]             Education:  B.Tech CSE @ SRM IST (Class of 2027)
+[--=-+----=-----+-===+-======+##*++===*#%%@@@%=---=---=----=--=---=---=--=
+]             Languages:  Python, SQL
+[----+----=----=+-===+-==-=-*#+===----==++*#%@%*--=---=---==--=---=---=---
+]             Frameworks: TensorFlow, Keras, OpenCV, LangChain
+[PASTE ASCII LINE 7]             Projects:   PlexMeet (ASL), Crop Disease AI, Plexbot
+[PASTE ASCII LINE 8]             Interests:  Powerlifting, NSS, AI Promptathons
+[PASTE ASCII LINE 9]             Contact:    tushar.sh6289@gmail.com
+[PASTE ASCII LINE 10]            LinkedIn:   in/tusharwithai
+[PASTE ASCII LINE 11]
+[PASTE ASCII LINE 12]
